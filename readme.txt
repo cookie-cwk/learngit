@@ -1,4 +1,5 @@
 Git is a distribute version control system.
 Git is free software distribute under the GPL.
 Git has a mutable index calls stage.
-			--cwk;
+Git tracks changes.			
+		`--cwk;
